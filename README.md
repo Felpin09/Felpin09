@@ -1,7 +1,7 @@
 ### Olá sou o Erick Felipe👋
 
 - 🔭 Full Stack Developer
-- 🌱 Estudando Javascript, React, Node.js, Java e Spring Boot...
+- 🌱 Estudando Javascript, React, Node.js .
 
 <div align="center">
   <a href="https://github.com/Felpin09">
