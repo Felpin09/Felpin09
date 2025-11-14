@@ -1,6 +1,6 @@
 ### Olá sou o Erick Felipe👋
 
-- 🔭 Back-End Developer..
+- 🔭 Full Stack Developer
 - 🌱 Estudando Javascript, React, Node.js, Java e Spring Boot...
 
 <div align="center">
